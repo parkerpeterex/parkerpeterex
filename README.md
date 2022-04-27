@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parkerpeterex
 - 👀 I’m interested in hacking
 - 🌱 I’m Studying at 0xford Univerity 
-- 📫 How to reach me ? :  parkerpeterex@gmail.com 
+- 📫 How to reach me ? :  *@gmail.com 
 
 Thanks
 
